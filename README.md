@@ -53,18 +53,18 @@
   <a href="Mr.hashtag#1388" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="adesharabrijesh8@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPxSPPcgBdCTPvTPPlgXDpLcSRGrpCdLsvKDprhfsHMkBllgGDTFLWbTlWNwHtGZnQmHhS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://twitter.com/Mr_hashtag_292?t=ZuEk_taLjQ-u-97cXJcOWw&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <a href="https://www.hackerrank.com/adesharabrijesh8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/AdesharaBrijesh/AdesharaBrijesh/output/snake.svg" alt="Snake animation" />
 
