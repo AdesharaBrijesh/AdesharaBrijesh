@@ -37,6 +37,7 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
   <img src="https://img.shields.io/badge/Framework-Django-informational?style=for-the-badge&color=092E20"/>
 </p>
 
+
 ---
 
 ## 📈 **GitHub Stats**
@@ -53,16 +54,23 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 </p>
 
 ---
+## ✍️ **Random Dev Quote**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
 
-## 🚀 **Projects**
-### 📊 [Attendou](https://github.com/AdesharaBrijesh/Attendou)  
-Attendance management system with user authentication and real-time reporting features.
+---
 
-### ✅ [Todo-List-MERN](https://github.com/AdesharaBrijesh/Todo-List-MERN)  
-A MERN stack-powered to-do list app that helps you manage tasks efficiently.
+## 🔝 **Top Contributed Repo**
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AdesharaBrijesh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
 
-### 🌍 [TripSage (Ongoing)](https://github.com/AdesharaBrijesh/TripSage)  
-Trip planning app integrating real-time collaboration, maps, and weather APIs.
+---
+## 👀 ** Profile Views**
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=AdesharaBrijesh&icon=0&color=0)](https://visitcount.itsvg.in" alt="Profile Views"/>
+</p>
 
 ---
 
