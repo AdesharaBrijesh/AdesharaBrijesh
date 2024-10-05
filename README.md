@@ -15,6 +15,7 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 ---
 
 ## 🛠 **Tech Stack**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/>
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/>
@@ -42,6 +43,7 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 ---
 
 ## 📈 **GitHub Stats**
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdesharaBrijesh&theme=2077" width="400"/>
 </p>
@@ -50,27 +52,31 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 ---
 
 ## 🔥 **Top Languages**
+
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdesharaBrijesh&theme=2077" width="400" alt="Top Languages"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdesharaBrijesh&theme=2077" width="400" alt="Top Commit Languages"/>
 </p>
 
 ---
+
+## 🔝 **Top Contributed Repo**
+
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=AdesharaBrijesh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
+
+---
 ## ✍️ **Random Dev Quote**
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
 
-## 🔝 **Top Contributed Repo**
-<p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=AdesharaBrijesh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
-
----
-
 ## 👀 **Profile Views**
+
 <p align="center">
     <img src="https://visitcount.itsvg.in/api?id=AdesharaBrijesh&icon=0&color=0)](https://visitcount.itsvg.in" alt="Profile Views"/>
 </p>
@@ -78,6 +84,7 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 ---
 
 ## 🤝 **Let’s Connect!**  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/adeshara-brijesh-3bba2322b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
