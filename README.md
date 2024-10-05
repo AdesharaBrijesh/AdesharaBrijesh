@@ -41,7 +41,7 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src=" http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdesharaBrijesh&theme=2077" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdesharaBrijesh&theme=2077" width="400"/>
 </p>
 
 ---
