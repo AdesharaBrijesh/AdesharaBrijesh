@@ -3,7 +3,7 @@
 *Tech Enthusiast | Full-Stack Developer | Innovator*
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif" width="600" height="400"/>
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" />
 </p>
 
 ---
@@ -44,6 +44,7 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdesharaBrijesh&theme=2077" width="400"/>
 </p>
+
 
 ---
 
