@@ -18,6 +18,7 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"/>
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"/>
+
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"/>
   <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB"/>
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933"/>
@@ -68,7 +69,8 @@ Whether it's building full-stack apps, cloud integrations, or mobile solutions, 
 </p>
 
 ---
-## 👀 ** Profile Views**
+
+## 👀 **Profile Views**
 <p align="center">
     <img src="https://visitcount.itsvg.in/api?id=AdesharaBrijesh&icon=0&color=0)](https://visitcount.itsvg.in" alt="Profile Views"/>
 </p>
